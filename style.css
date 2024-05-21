@@ -372,7 +372,7 @@ h2 {
 }
 
 .campo label, .campo-descricao label {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .campo input, .campo-descricao textarea {
@@ -458,6 +458,12 @@ footer .container-grid {
 
 .icones-redes a:hover {
     color: var(--laranja-gamifica)
+}
+
+
+/* //js menu */
+.menu-fechado {
+    display: none;
 }
 
 @media screen and (max-width: 1300px) {
